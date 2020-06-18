@@ -10,3 +10,4 @@ To run all tests
 ````
 mvn clean install
 ````
+Failsafe is not failing build for ParameterizedTest with two args
